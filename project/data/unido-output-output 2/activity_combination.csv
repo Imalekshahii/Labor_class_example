@@ -1,0 +1,711 @@
+ActivityCode,Activity
+101A,101 includes 102 and 103
+101B,"101 includes 102, 103, 111 and 112"
+102A,102 includes 101 and 103
+10A,10 includes 11
+10B,10 includes 11 and 12
+10C,10 includes 12
+10D,"10 includes 12, 13 and 14"
+10E,"10 includes 12, 13 and 14"
+111A,111 includes 112
+111B,111 includes 112 and 120
+11A,11 includes 12
+12A,12 includes 13
+131A,131 includes 132
+131B,"131 includes 132, 141 and 142"
+132A,132 includes 120
+132B,"132 includes 101, 102, 103, 141 and 142"
+132C,"132 includes 101, 102 and 103"
+13A,13 includes 14
+13B,13 includes 12
+13C,13 includes 10 and 14
+141A,141 includes 142
+141B,"141 includes 101, 102, 103 and 142"
+142A,142 includes 101
+14A,14 includes 10
+1511A,1511 includes 1512
+1511B,1511 includes 1512 and 1513
+1511C,1511 includes 1520
+1511D,"1511 includes 1512, 1513 and 1514"
+1512A,1512 includes 1513
+1512B,1512 includes 1513 and 1514
+1513A,1513 includes 1514
+1514A,1514 includes 2424
+1514B,1514 includes 1520
+151A,"151 includes 1520, 153, 154 and 155"
+151B,151 includes 1520
+151C,"151 includes 1520, 153 and 154"
+151D,"151 includes 1520, 153, 154, 155 and 1600"
+151E,151 includes 153 and 154
+1520A,1520 includes 153
+1531A,1531 includes 1532
+1531B,1531 includes 1532 and 1549
+1531C,1531 includes 1533
+1531D,1531 includes 1532 and 1533
+1532A,1532 includes 1544
+1532B,1532 includes 1533
+1532C,1532 includes 1531
+1533A,1533 includes 154
+153A,153 includes 1549
+153B,153 includes 1544
+153C,153 includes 154
+153D,"153 includes 1543, 1544 and 1549"
+1541A,1541 includes 1544
+1541B,1541 includes 1542
+1541C,"1541 includes 1542, 1543 and 1544"
+1541D,1541 includes 1542 and 1543
+1542A,1542 includes 1543
+1542B,"1542 includes 1543, 1544 and 1549"
+1542C,1542 includes 1543 and 1544
+1543A,1543 includes 1542
+1544A,1544 includes 1549
+1544B,1544 includes 1532
+1549A,1549 includes 1544
+1549B,1549 includes 1532
+1549C,1549 includes 1542 and 1544
+1549D,1549 includes 1541 and 1542
+1549E,1549 includes 1513
+1549F,1549 includes 1543 and 1544
+1549G,1549 includes 1600
+1549H,1549 includes 1543
+1549I,"1549 includes 1512, 1513, 1520, 1541 and 1543"
+154A,154 includes 1533
+154B,154 includes 1600
+154C,154 includes 155 and 1600
+154D,154 includes 153 and 1600
+1551A,1551 includes 1552 and 1554
+1551B,1551 includes 1552
+1551C,1551 includes 1552 and 1553
+1551D,1551 includes 1553
+1551E,1551 includes 1554
+1551F,1551 includes 1553 and 1554
+1552A,1552 includes 1553
+1552B,1552 includes 1551 and 1553
+1553A,1553 includes 1554
+1553B,1553 includes 1554 and 1600
+1554A,1554 includes 1600
+1554B,1554 includes 1553
+155A,155 includes 1600
+15A,15 includes 16
+15B,15 includes 16 and 17
+1600A,1600 includes 155
+1600B,1600 includes 2320
+1600C,"151 includes 1520, 153, 154, 155 and 1600"
+16A,16 includes 23
+16B,16 includes 15
+1711A,1711 includes 2430
+1711B,1711 includes 1712
+1711C,1711 includes 1729
+1712A,1712 includes 1721
+171A,171 includes 172 and 1730
+171B,"171 includes 172, 1730, 191, 1920, 3710 and 3720"
+171C,171 includes 172
+171D,171 includes 2430
+171E,171 includes 1722
+171F,"171 includes 172, 1730, 1810 and 1820"
+171G,"171 includes 172, 1730, 1810, 1820, 191 and 1920"
+171H,171 includes 1730
+1721A,1721 includes 1723
+1721B,1721 includes 1723 and 1729
+1721C,1721 includes 1722 and 1723
+1721D,1721 includes 171
+1721E,1721 includes 1722
+1721F,"1721 includes 1723, 1729 and 1730"
+1721G,"1721 includes 1722, 1723 and 1729"
+1722A,1722 includes 1723 and 1729
+1722B,1722 includes 1729
+1722C,1722 includes 1723
+1723A,1723 includes 1729
+1723B,1723 includes 1722
+1729A,1729 includes 1723
+172A,172 includes 1810 and 1820
+172B,172 includes 1730
+172C,172 includes 1810
+172D,172 includes 171
+1730A,1730 includes 1810
+1730B,1730 includes 1810 and 1820
+1730C,1730 includes 1729 and 1810
+1730D,1730 includes 1711 and 1729
+17A,17 includes 19 and 37
+17B,17 includes 18
+17C,17 includes 18 and 19
+17D,17 includes 19
+17E,17 includes 20
+1810A,1810 includes 1820
+1810B,1810 includes 1820 and 1920
+1810C,"1810 includes 1820, 191 and 1920"
+1810D,1810 includes 1920
+1810E,1810 includes 1730 and 1820
+1810F,"171 includes 172, 1730, 1810 and 1820"
+1820A,1820 includes 1911
+1820B,1820 includes 1912
+1820C,1820 includes 191 and 1920
+1820D,1820 includes 191
+18A,18 includes 19
+18B,18 includes 17
+1911A,1911 includes 1912
+1911B,1911 includes 1820
+1911C,1911 includes 1820 and 1912
+1912A,1912 includes 1920
+191A,191 includes 1920
+191B,191 includes 1820
+191C,"191 includes 1920, 2010, 202, 3610 and 369"
+191D,191 includes 1820 and 1920
+19A,19 includes 20 and 36
+19B,19 includes 20
+2010A,2010 includes 202
+2010B,2010 includes 2021
+2010C,2010 includes 2022
+2010D,2010 includes 2022 and 210
+2010E,2010 includes 202 and 210
+2010F,2010 includes 202 and 3610
+2010G,"2010 includes 202, 210, 221, 222 and 2230"
+2010H,"2010 includes 202, 3610 and 369"
+2010I,"2010 includes 202, 331, 3320, 3330, 3610 and 369"
+2010J,2010 includes 210 and 221
+2021A,2021 includes 2022
+2021B,2021 includes 2022 and 2023
+2022A,2022 includes 2023 and 2029
+2022B,2022 includes 2021
+2022C,"2022 includes 2101, 2102, 2211 and 2221"
+2023A,2023 includes 2029
+2029A,2029 includes 2023
+2029B,2029 includes 2520
+2029C,"2029 includes 2010, 2021 and 2022"
+2029D,"2029 includes 210, 221 and 2221"
+2029E,2029 includes 2021
+202A,202 includes 2520
+202B,202 includes 2010
+202C,202 includes 210
+20A,20 includes 21
+20B,20 includes 21 and 22
+20C,20 includes 36
+20D,20 includes 33 and 36
+20E,"20 includes 24, 25 and 36"
+20F,"20 includes 18, 19, 25 and 36"
+20G,"20 includes 28, 29, 30, 31, 32, 33, 34, 35 and 36"
+20H,"20 includes 21, 22 and 36"
+20J,20 includes 22
+2101A,"2101 includes 2109, 2212 and 2221"
+2101B,2101 includes 2102
+2101C,"2101 includes 2109, 2212, 2221 and 3720"
+2101D,2101 includes 2102 and 2109
+2101E,2101 includes 2109
+2102A,2102 includes 2109
+2102B,2102 includes 2101
+2109A,2109 includes 2102
+2109B,2109 includes 2211
+210A,"210 includes 221, 222 and 2230"
+210B,210 includes 2211 and 2212
+210C,210 includes 221
+21A,21 includes 22
+2211A,2211 includes 2219
+2211B,"2211 includes 2212, 2219, 2221 and 3691"
+2211C,2211 includes 2212
+2211D,"2211 includes 2213, 2219, 2221 and 2222"
+2211E,"2211 includes 2212, 2213 and 2219"
+2212A,2212 includes 2213
+2212B,2212 includes 2213 and 2219
+2212C,2212 includes 2221
+2212D,2212 includes 2219
+2213A,2213 includes 2230
+2213B,2213 includes 2219
+2213C,2213 includes 2219 and 2230
+2213D,"2213 includes 2230, 2422 and 2429"
+2219A,2219 includes 2213
+2219B,2219 includes 222
+221A,221 includes 222
+221B,221 includes 222 and 2230
+221C,"221 includes 2221, 2230, 2422, 2429 and 3691"
+221D,221 includes 2222 and 2230
+221E,"221 includes 222, 2230, 2310, 2320 and 2330"
+221F,"210 includes 221, 222 and 2230"
+2221A,2221 includes 2222
+2221B,2221 includes 2222 and 2230
+2222A,2222 includes 2230
+2222B,2222 includes 2221
+2222C,2222 includes 2320
+222A,222 includes 2230
+2230A,"2230 includes 331, 3320 and 369"
+2230B,2230 includes 2213 and 3692
+2230C,2230 includes 2320
+22A,22 includes 23
+22B,22 includes 21
+2310A,2310 includes 2320 and 2330
+2310B,"2310 includes 2320, 2330, 241, 242 and 2430"
+2310C,2310 includes 2330
+2310D,2310 includes 2320
+2310E,"2310 includes 2320, 241, 242, 2430, 251 and 2520"
+2310F,2310 includes 2320 and 2411
+2310G,"2310 includes 2320, 2330, 241, 242, 2430, 251 and 2520"
+2310H,2310 includes 2230 and 2320
+2310J,"2310 includes 2320, 2330, 251, 2520, 2610 and 269"
+2320A,2320 includes 2330
+2320B,2320 includes 241 and 242
+2320C,2320 includes 2412 and 2413
+2320D,2320 includes 2310 and 2330
+2320E,2320 includes 241
+2320F,"2320 includes 2422, 2423 and 2424"
+2320G,2320 includes 2310
+2320H,2320 includes 2429
+2330A,2330 includes 241
+23A,23 includes 24
+23B,23 includes 24 and 25
+23C,23 includes 25
+23D,23 includes 25 and 26
+23E,23 includes 26
+2411A,2411 includes 2412 and 2423
+2411B,2411 includes 2330
+2411C,2411 includes 2423
+2411D,2411 includes 2412
+2411E,2411 includes 2413
+2411F,2411 includes 2412 and 2413
+2411G,2411 includes 2320
+2411H,2411 includes 2421
+2412A,2412 includes 2421
+2412B,2412 includes 2413
+2412C,2412 includes 2411
+2412D,2412 includes 2422
+2413A,2413 includes 2430
+2413B,"2413 includes 2310, 2320, 2330 and 2430"
+2413C,2413 includes 2421
+241A,241 includes 242 and 2430
+241B,241 includes 242
+241C,241 includes 2430
+241D,241 includes 2423
+241E,"241 includes 2310, 2320, 2330 and 2430"
+241F,"241 includes 242, 2430, 251 and 2520"
+241G,241 includes 2421
+241H,"241 includes 2421, 2422 and 2423"
+241I,"241 includes 2310, 2320, 242, 2430, 251 and 2520"
+241J,241 includes 1729
+241K,"241 includes 2310, 2320, 2330, 242, 2430, 251 and 2520"
+241L,"241 includes 2310, 2320, 2330, 242 and 2430"
+241M,241 includes 2330
+241N,241 includes 2330 and 242
+2421A,2421 includes 2422
+2421B,"2421 includes 2422, 2423, 2424 and 2429"
+2422A,2422 includes 2421
+2422B,2422 includes 2421 and 2430
+2422C,"2422 includes 2423, 2424 and 2429"
+2422D,2422 includes 2423 and 2424
+2423A,2423 includes 2429 and 2430
+2423B,2423 includes 2421 and 2422
+2424A,2424 includes 2429 and 2430
+2424B,2424 includes 2430
+2424C,2424 includes 2429
+2429A,2429 includes 2412 and 2421
+2429B,2429 includes 3311
+2429C,2429 includes 2430
+2429D,2429 includes 2421 and 2430
+2429E,2429 includes 2511
+242A,242 includes 2430
+242B,"242 includes 2430, 3210 and 331"
+24A,24 includes 25
+24B,24 includes 23 and 25
+24C,24 includes 23
+2511A,2511 includes 2519
+2519A,2519 includes 2511
+2519B,"2519 includes 2520, 2610 and 2691"
+251A,251 includes 2520
+251B,"251 includes 2520, 2610 and 269"
+2520A,2520 includes 2610 and 269
+25A,25 includes 26
+2610A,2610 includes 269
+2610B,2610 includes 2691
+2610C,"2610 includes 251, 2520 and 269"
+2610D,"2610 includes 2692, 2694, 2696 and 2699"
+2610E,"2610 includes 2310, 2320, 2330, 251, 2520 and 269"
+2691A,2691 includes 2692 and 2693
+2691B,2691 includes 2692
+2691C,2691 includes 2610 and 2693
+2691D,"2691 includes 2692, 2694, 2696 and 2699"
+2691E,2691 includes 2693
+2692A,2692 includes 2691 and 2693
+2692B,2692 includes 2693
+2692C,"2692 includes 2693, 2694, 2695, 2696 and 2699"
+2693A,2693 includes 2691 and 2692
+2693B,2693 includes 2694
+2694A,2694 includes 2695
+2694B,2694 includes 2699
+2694C,2694 includes 2692 and 2695
+2694D,"2694 includes 2691, 2692 and 2693"
+2695A,2695 includes 2696
+2695B,2695 includes 2692 and 2694
+2695C,2695 includes 2694
+2696A,2696 includes 2699
+2696B,2696 includes 2695 and 2699
+2699A,2699 includes 2310
+2699B,2699 includes 2710
+2699C,2699 includes 2695 and 2696
+2699D,2699 includes 2696
+269A,269 includes 2610
+26A,"26 includes 27, 28, 29, 30, 31, 32, 34 and 35"
+26B,26 includes 25
+26C,26 includes 23 and 25
+26D,26 includes 27 and 28
+2710A,2710 includes 2720 and 273
+2710B,"2710 includes 2720, 273, 281 and 289"
+2710C,"2710 includes 2720, 2731, 2891 and 3710"
+2710D,2710 includes 2720
+2710E,"2710 includes 2720, 273, 2811 and 2812"
+2710F,"2710 includes 2720, 273, 281, 289, 291 and 292"
+2710G,2710 includes 273
+2710H,"2710 includes 2720, 273, 281, 289, 291, 292 and 2930"
+2710I,"2710 includes 2720, 273, 3610 and 369"
+2710J,"2710 includes 2720, 273, 281, 289, 291, 292, 2930 and 3000"
+2710K,"2710 includes 2731, 2811 and 2899"
+2720A,2720 includes 273
+2720B,2720 includes 2891
+2720C,2720 includes 2811 and 2812
+2720D,2720 includes 2710 and 2731
+2720E,2720 includes 2710 and 273
+2720F,2720 includes 2731
+2731A,2731 includes 2732
+273A,"273 includes 281, 289, 291, 292 and 2930"
+273B,273 includes 281
+273C,273 includes 2710 and 2720
+27A,27 includes 28
+27B,27 includes 36
+27C,27 includes 28 and 29
+27D,"27 includes 28, 29 and 30"
+27E,"27 includes 28, 29, 30, 31, 32 and 33"
+27F,"27 includes 28, 29, 30, 31, 32, 33, 34 and 35"
+27G,"27 includes 28, 29, 30, 31, 32, 34 and 35"
+27H,27 includes 33 and 36
+27I,"27 includes 28, 29, 30, 31 and 32"
+27J,"27 includes 28, 29, 30, 31, 32, 33, 34, 35 and 36"
+2811A,2811 includes 2812
+2811B,2811 includes 289
+2811C,2811 includes 2812 and 2813
+2812A,2812 includes 2813
+2813A,"2813 includes 2911, 2913, 2914, 2919, 2926 and 2929"
+281A,281 includes 289
+281B,"281 includes 2911, 2913, 2914, 2919, 2926 and 2929"
+281C,281 includes 289 and 291
+281D,"281 includes 289, 291, 292 and 2930"
+281E,"281 includes 289, 291, 292, 2930, 3000, 3110, 3120, 3130, 3140, 3150 and 3190"
+281F,"281 includes 289, 291, 292, 2930 and 3000"
+281G,"28 includes 28, 29, 30, 31, 32, 34 and 35"
+281H,"28 includes 29, 30, 31, 32, 33, 34, 35 and 36"
+281I,"28 includes 29, 30, 31, 32, 33, 34 and 35"
+281J,"281 includes 289, 331, 3320 and 3330"
+281K,"281 includes 289, 291, 292, 2930, 3000, 3110, 3120, 3130, 3140, 3150, 3190, 3210, 3220 and 3230"
+281L,"281 includes 2710, 2720, 273 and 289"
+2891A,2891 includes 2892
+2891B,2891 includes 2892 and 2899
+2892A,2892 includes 2891
+2892B,2892 includes 2893
+2893A,2893 includes 2899
+2893B,2893 includes 2812 and 2891
+2899A,2899 includes 2927
+2899B,2899 includes 3699
+2899C,2899 includes 2893
+289A,289 includes 3699
+289B,"289 includes 292, 3520 and 359"
+289C,"289 includes 291, 292 and 2930"
+28A,"28 includes 29, 30 and 31"
+28B,28 includes 29 and 30
+28C,"28 includes 29, 30, 31, 32, 34 and 35"
+28D,"28 includes 29, 30, 31, 32, 33, 34, 35 and 36"
+28E,28 includes 29
+28F,"28 includes 29, 30, 31, 32, 33, 34 and 35"
+28G,28 includes 33
+28H,"28 includes 29, 30, 31, 32 and 33"
+28I,"28 includes 29, 30, 31 and 32"
+28J,"28 includes 29, 30, 33, 34 and 35"
+28K,"28 includes 30, 32 and 33"
+28L,28 includes 27
+28M,"28 includes 29, 30, 32, 33 and 34"
+2911A,2911 includes 2912 and 2913
+2911B,"2911 includes 2912, 2913, 2914 and 2915"
+2911C,2911 includes 2914
+2912A,2912 includes 2911
+2912B,2912 includes 2913 and 2919
+2912C,2912 includes 2915
+2912D,2912 includes 2913 and 2915
+2912E,2912 includes 2913
+2912F,2912 includes 2913 and 2914
+2912G,2912 includes 2914
+2913A,2913 includes 2914
+2914A,2914 includes 2915 and 2919
+2914B,2914 includes 2930
+2915A,2915 includes 2924
+2915B,2915 includes 2914
+2915C,2915 includes 2919
+2919A,"2919 includes 2912, 2913, 2914 and 2915"
+2919B,2919 includes 2929
+2919C,2919 includes 2911
+2919D,2919 includes 292
+2919E,2919 includes 292 and 2930
+291A,291 includes 292 and 2930
+291B,"291 includes 292, 2930 and 3330"
+291C,291 includes 2930
+291D,"291 includes 292, 2930, 351, 3520, 3530 and 359"
+291E,"291 includes 292, 2930, 3110, 3120, 3130, 3140, 3150, 3190, 3410, 3420 and 3430"
+291F,"291 includes 292, 2930 and 3000"
+291G,291 includes 292
+291H,"291 includes 292, 2930, 3000, 331, 3320 and 3330"
+291I,"291 includes 292, 2930, 3000, 3410, 3420, 3430, 351, 3520, 3530 and 359"
+291J,"291 includes 292, 2930, 3000, 3110, 3120, 3130, 3140, 3150, 3190, 3210, 3220 and 3230"
+291K,"29 includes 30, 31, 32, 34 and 35"
+291L,"291 includes 292, 2930, 3000, 331, 3320, 3330, 3410, 3420, 3430, 351, 3520, 3530 and 359"
+291M,"291 includes 292,2930,3000,3110,3220,3230,331,3320,3330,3410,3420,3430,351,3520,3530,359"
+291N,"291 includes 292, 2930, 3410, 3420, 3430, 351, 3520, 3530 and 359"
+291P,"291 includes 292, 2930, 3110, 3120, 3130, 3140, 3150 and 3190"
+291Q,"291 includes 292, 2930, 3000, 3110, 3120, 3130, 3140, 3150, 3190, 3210, 3220, 3230, 331, 3320, 3330"
+291R,291 includes 3230 and 3330
+291S,"291 includes 292, 2930, 3000, 3110, 3120, 3130, 3140, 3150, 3190, 3210, 3220, 3230, 331, 3320, 3330,"
+2921A,2921 includes 2924
+2921B,2921 includes 2913 and 2919
+2921C,2921 includes 2922
+2922A,2922 includes 2923
+2922B,"2922 includes 2923, 2924, 2925, 2926 and 2929"
+2922C,2922 includes 2927
+2923A,"2923 includes 2924, 2925, 2926, 2927 and 2929"
+2923B,2923 includes 2924
+2923C,"2923 includes 2924, 2925, 2926 and 2929"
+2923D,"2923 includes 2924, 2925 and 2926"
+2924A,2924 includes 2923
+2924B,2924 includes 2929
+2924C,2924 includes 2925
+2925A,2925 includes 2927 and 2929
+2925B,2925 includes 2924
+2925C,"2925 includes 2923, 2926 and 2927"
+2925D,2925 includes 2926
+2926A,2926 includes 2929
+2926B,2926 includes 2927
+2927A,2927 includes 2930
+2927B,2927 includes 2929
+2927C,2927 includes 2926
+2929A,"2929 includes 2913, 2923, 2925 and 2926"
+2929B,2929 includes 2927
+2929C,"2929 includes 2922, 2923, 2924, 2925, 2926 and 2927"
+2930A,2930 includes 2914
+2930B,2930 includes 3000
+2930C,"2930 includes 3000, 3110, 3120, 3130, 3140, 3150, 3190 and 3210"
+2930D,"2930 includes 3000, 3110, 3120, 3130, 3140, 3150, 3190, 3210, 3220, 3230, 331, 3320 and 3330"
+29A,29 includes 35
+29B,29 includes 31 and 34
+29C,29 includes 30
+29D,29 includes 30 and 33
+29E,"29 includes 30, 34 and 35"
+29F,"29 includes 30, 31 and 32"
+29G,"29 includes 30, 31, 32, 34 and 35"
+29H,"29 includes 30, 33, 34 and 35"
+29J,29 includes 34 and 35
+29K,29 includes 31
+29M,29 includes 34
+29N,"29 includes 30, 31, 32 and 33"
+29P,"29 includes 30, 32 and 33"
+29Q,"29 includes 30, 31, 32, 33, 34 and 35"
+3000A,"3000 includes 3110, 3120, 3130, 3140, 3150, 3190, 3210, 3220 and 3230"
+3000B,"3000 includes 31, 32 and 33"
+3000C,"3000 includes 3110, 3120, 3130, 3140, 3150 and 3190"
+3000D,"3000 includes 3110, 3120, 3130, 3140, 3150, 3190, 331, 351 and 359"
+3000E,"3000 includes 31, 32, 33, 34 and 35"
+3000F,"3000 includes 3210, 3220, 3230, 331, 3320 and 3330"
+3000G,"3000 includes 331, 3320 and 3330"
+3000H,"3000 includes 3210, 3220 and 3230"
+3000I,"3000 includes 291,292,2930,3110, 3120, 3130, 3140, 3150, 3190, 3210, 3220, 3230, 331, 3320 and 3330"
+30A,30 includes 31 and 32
+30B,"30 includes 31, 32 and 33"
+30C,30 includes 31
+30D,"30 includes 31, 32, 33, 34 and 35"
+30E,30 includes 33
+30F,30 includes 32 and 33
+30G,30 includes 32
+30H,"30 includes 29, 31, 32 and 33"
+30J,"30 includes 29, 31, 32, 33, 34 and 35"
+30K,"30 includes 29, 32 and 33"
+3110A,"3110 includes 3120, 3130, 3140, 3150 and 3190"
+3110B,3110 includes 3120 and 3190
+3110C,3110 includes 3120 and 3130
+3110D,3110 includes 3120
+3110E,"3110 includes 3120, 3130, 3140, 3150, 3190, 3210, 3220 and 3230"
+3110F,"3110 includes 3120, 3130 and 3140"
+3110G,"3110 includes 3120, 3130, 3140, 3150, 3190, 3210, 3220, 3230, 331, 3320 and 3330"
+3110H,3110 includes 3000
+3110I,"3110 includes 3000, 3120, 3130, 3140, 3150 and 3190"
+3110J,"3110 includes 291, 292, 2930, 3120, 3130, 3140, 3150 and 3190"
+3120A,3120 includes 3110
+3120B,3120 includes 3150 and 3190
+3120C,3120 includes 3130
+3120D,3120 includes 3130 and 3150
+3130A,3130 includes 3140
+3130B,3130 includes 3140 and 3190
+3130C,"3130 includes 3140, 3150 and 3190"
+3140A,"3140 includes 3150, 3190 and 3210"
+3140B,3140 includes 3150
+3140C,3140 includes 3150 and 3190
+3140D,3140 includes 331
+3140E,3140 includes 3230 and 3311
+3150A,3150 includes 3140 and 3190
+3150B,3150 includes 3140
+3150C,3150 includes 3130 and 3140
+3150D,3150 includes 3190
+3150E,3150 includes 3210 and 3230
+3190A,3190 includes 3110 and 3120
+3190B,3190 includes 3220
+3190C,"3190 includes 3210, 3220, 3230, 331, 3320 and 3330"
+3190D,3190 includes 3140
+3190E,3190 includes 3150
+3190F,3190 includes 3140 and 3313
+3190G,3190 includes 3140 and 3150
+31A,31 includes 32
+31B,31 includes 32 and 33
+31C,31 includes 33 and 34
+31D,"31 includes 32, 33, 34 and 35"
+31E,31 includes 30
+31F,31 includes 29
+31G,31 includes 29 and 35
+3210A,3210 includes 3220 and 3230
+3210B,3210 includes 3230
+3210C,3210 includes 3220
+3210D,3210 includes 242 and 331
+3210E,3210 includes 3220 and 331
+3210F,3210 includes 3230 and 331
+3210G,"3210 includes 3220, 3230, 331, 3320 and 3330"
+3220A,3220 includes 3230
+3220B,3220 includes 3210
+3220C,3220 includes 3313
+3220D,"3220 includes 3230, 331, 3320 and 3330"
+3230A,3230 includes 3220 and 3210
+3230B,3230 includes 3311 and 3320
+3230C,3230 includes 331
+3230D,3230 includes 3220
+32A,32 includes 33
+3311A,"3311 includes 3312, 3313, 3320 and 3330"
+3311B,3311 includes 3320
+3311C,"3311 includes 3312, 3313 and 3320"
+3311D,3311 includes 3312 and 3313
+3311E,3311 includes 3312
+3312A,3312 includes 3313
+3312B,"3312 includes 3311, 3313, 3320 and 3330"
+331A,331 includes 3320 and 3330
+331B,331 includes 3320
+331C,331 includes 3330
+331D,"331 includes 3320, 3330, 3610 and 369"
+331E,"331 includes 3320, 3330, 351, 3520, 3530 and 359"
+331F,"331 includes 3320, 3330, 3410, 3420, 3430, 351, 3520, 3530 and 359"
+331G,"331 includes 2310, 2320, 2330, 3320, 3330, 3610 and 369"
+3320A,3320 includes 3330
+3320B,3320 includes 3313 and 3330
+3320C,3320 includes 3430
+3320D,3320 includes 331 and 3330
+3320E,3320 includes 3410
+33A,33 includes 35
+33B,33 includes 36
+33C,33 includes 23 and 36
+33D,33 includes 25 and 36
+33E,"33 includes 23, 25 and 36"
+33F,"33 includes 18, 19 and 36"
+33G,"33 includes 18, 19, 23, 24 and 36"
+33H,"33 includes 18, 19, 23, 24, 25 and 36"
+3410A,"3410 includes 3420, 3430, 351, 3520, 3530 and 359"
+3410B,3410 includes 3420 and 3430
+3410C,3410 includes 3530
+3410D,3410 includes 3591
+3410E,3410 includes 3430
+3410F,3410 includes 3420
+3410G,"3410 includes 291, 292, 2930, 3000, 3420, 3430, 351, 3520, 3530 and 359"
+3410H,3410 includes 3420 and 359
+3420A,3420 includes 3410 and 3430
+3420B,3420 includes 3430
+3430A,3430 includes 3610
+3430B,3430 includes 351 and 3710
+3430C,3430 includes 3420
+3430D,3430 includes 3599
+3430E,3430 includes 3512 and 3592
+3430F,3430 includes 3592
+3430G,3430 includes 3410
+34A,34 includes 35
+34B,34 includes 35 and 37
+34C,34 includes 35 and 36
+34D,34 includes 33 and 35
+34E,"34 includes 29, 30 and 35"
+3511A,3511 includes 3512
+3511B,3511 includes 3599
+3511C,"3511 includes 3512, 3610, 3691 and 3699"
+3511D,3511 includes 3592
+3512A,3512 includes 3511
+351A,"351 includes 3520, 3530 and 359"
+351B,351 includes 3530
+3520A,3520 includes 3530
+3520B,3520 includes 3599
+3520C,"3520 includes 351, 3530 and 359"
+3530A,3530 includes 3599
+3530B,3530 includes 359
+3591A,3591 includes 3592
+3592A,3592 includes 3591
+3592B,3592 includes 3591 and 3599
+3599A,3599 includes 3530
+359A,359 includes 3520 and 3530
+359B,"359 includes 351, 3520 and 3530"
+359C,359 includes 3530
+359D,359 includes 292 and 3520
+359E,359 includes 2927 and 3520
+35A,35 includes 36
+3610A,3610 includes 369
+3610B,"3610 includes 369, 3710 and 3720"
+3610C,3610 includes 369 and 3710
+3610D,"36 includes 16, 20, 21, 24, 25, 28, 29, 33 and 35"
+3610E,"3610 includes 2710, 2720, 273 and 369"
+3610F,3610 includes 3691 and 3699
+3610G,"1600 includes 3610, 369, 3710 and 3720"
+3610H,"3610 includes 191, 1920, 2010, 202 and 369"
+3691A,3691 includes 3692 and 3699
+3691B,3691 includes 3692
+3691C,3691 includes 3694
+3691D,3691 includes 3692 and 3693
+3692A,3692 includes 3699
+3692B,"3692 includes 3691, 3693, 3694 and 3699"
+3692C,"3692 includes 3693, 3694 and 3699"
+3692D,3692 includes 3693
+3692E,3692 includes 3694
+3692F,3692 includes 3693 and 3694
+3693A,3693 includes 3694
+3693B,3693 includes 3592
+3693C,3693 includes 3692 and 3694
+3694A,"3694 includes 3692, 3693 and 3699"
+3694B,"3694 includes 3691, 3692, 3693 and 3699"
+3694C,3694 includes 3699
+3699A,"3699 includes 2696, 2893, 2925, 2929 and 3130"
+3699B,"3699 includes 2310, 2320, 2330, 3710 and 3720"
+3699C,3699 includes 3710 and 3720
+3699D,3699 includes 3692
+3699E,"3699 includes 2320, 3710 and 3720"
+3699F,"3699 includes 1600, 3710 and 3720"
+3699G,3699 includes 1600
+3699H,"3699 includes 2320, 2412, 3230, 3530 and 3592"
+3699I,"3699 includes 3692, 3693 and 3694"
+3699J,"3699 includes 1514, 3230 and 3691"
+369A,"369 includes 2310, 2320, 2330, 3710 and 3720"
+369B,"369 includes 2320, 3710 and 3720"
+369C,369 includes 3710 and 3720
+369D,"369 includes 171, 191, 241 and 359"
+369E,369 includes 1600
+369F,"369 includes 1600, 3710 and 3720"
+36A,36 includes 37
+36B,"36 includes 16, 20, 21, 24, 25, 28, 29, 33 and 35"
+36C,36 includes 27
+36D,36 includes 16
+36E,36 includes 16 and 37
+36F,36 includes 23 and 37
+36G,36 includes 25
+36H,"36 includes 18, 19 and 25"
+36I,"36 includes 18, 19, 21, 25 and 27"
+36J,"36 includes 18, 19, 21, 25, 26, 27, 29 and 30"
+36K,36 includes 21 and 22
+36L,36 includes 23
+36M,36 includes 22
+36N,36 includes 19 and 20
+36P,"36 includes 28, 29, 30, 31, 32, 33, 34 and 35"
+36Q,36 includes 29
+3710A,3710 includes 3720
+401A,401 includes 410
+401B,401 includes 402 and 403
+401C,401 includes 402
+401D,401 includes 403
+402A,402 includes 410
+40A,40 includes 41

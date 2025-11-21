@@ -1,0 +1,16 @@
+VariableCode,Variable
+01,Number of establishments
+02,Number of enterprises
+03,Number of persons engaged
+04,Number of employees
+05,Wages and salaries paid to employees
+11,Output at basic prices
+12,Output at factor values
+13,Output at producers' prices
+14,Output (valuation not defined)
+17,Value added at basic prices
+18,Value added at factor values
+19,Value added at producers' prices
+20,Value added (valuation not defined)
+21,Gross fixed capital formation
+31,Number of female employees

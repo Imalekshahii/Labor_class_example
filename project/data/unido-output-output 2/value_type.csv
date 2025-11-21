@@ -1,0 +1,5 @@
+Code,Description
+N,numeric
+M,monetary (local currency)
+USD,$ (USD)
+I,index

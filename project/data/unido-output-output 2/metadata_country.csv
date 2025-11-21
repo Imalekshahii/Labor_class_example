@@ -1,0 +1,9 @@
+CountryCode,Country,Title,Note
+840,United States of America,Data Supplier,"Census Bureau, U.S. Department of Commerce, Washington, D.C. 
+Industrial statistics for the OECD countries are compiled by the OECD secretariat, which supplies them to UNIDO."
+840,United States of America,Footnote,Methodological  break in 2022.
+840,United States of America,Method of data collection,Questionnaires and administrative source.
+840,United States of America,Reference Period,Calendar year.
+840,United States of America,Source,Census; annual survey; administrative data.
+840,United States of America,Special note,"The majority of countries providing data to UNIDO are currently compiling their industrial statistics in accordance with ISIC Revision 4. For those countries, the most recent time series data presented in ISIC Revision 4 are now made available in the UNIDO Statistics Portal https://stat.unido.org/ [database: INDSTAT, ISIC Revision 4]."
+840,United States of America,Type of enumeration,Economic Census (years ending in 2 and 7): a. complete enumeration for large-/medium-size firms and all multi-establishment firms; b. sampling method for small employers (those with paid employees) and single-establishment firms with payroll below a specified cut off; c. data from existing administrative records of other federal agencies are used for very small firms; Annual Survey of Manufactures (years between the Census): sample survey.

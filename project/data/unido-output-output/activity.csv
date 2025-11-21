@@ -1,0 +1,236 @@
+ActivityCode,Activity
+C,Total mining and quarrying
+10,Mining of coal and lignite; extraction of peat
+101,Mining and agglomeration of hard coal
+102,Mining and agglomeration of lignite
+103,Extraction and agglomeration of peat
+11,"Extraction of crude oil and natural gas, etc."
+111,Extraction of crude oil and natural gas
+112,"Oil, gas service activities"
+12,Mining of uranium and thorium ores
+120,Mining of uranium and thorium ores
+13,Mining of metal ores
+131,Iron ores
+132,"Non-ferrous metal ores,excl.uranium,thorium"
+14,Other mining and quarrying
+141,"Quarrying of stone, sand and clay"
+142,Mining and quarrying n.e.c.
+D,Total manufacturing
+15,Food and beverages
+151,"Processed meat,fish,fruit,vegetables,fats"
+1511,Processing/preserving of meat
+1512,Processing/preserving of fish
+1513,Processing/preserving of fruit & vegetables
+1514,Vegetable and animal oils and fats
+152,Dairy products
+1520,Dairy products
+153,Grain mill products; starches; animal feeds
+1531,Grain mill products
+1532,Starches and starch products
+1533,Prepared animal feeds
+154,Other food products
+1541,Bakery products
+1542,Sugar
+1543,"Cocoa, chocolate and sugar confectionery"
+1544,"Macaroni, noodles & similar products"
+1549,Other food products n.e.c.
+155,Beverages
+1551,"Distilling, rectifying & blending of spirits"
+1552,Wines
+1553,Malt liquors and malt
+1554,Soft drinks; mineral waters
+16,Tobacco products
+1600,Tobacco products
+160,Tobacco products
+17,Textiles
+171,"Spinning, weaving and finishing of textiles"
+1711,Textile fibre preparation; textile weaving
+1712,Finishing of textiles
+172,Other textiles
+1721,"Made-up textile articles, except apparel"
+1722,Carpets and rugs
+1723,"Cordage, rope, twine and netting"
+1729,Other textiles n.e.c.
+173,Knitted and crocheted fabrics and articles
+1730,Knitted and crocheted fabrics and articles
+18,"Wearing apparel, fur"
+181,"Wearing apparel, except fur apparel"
+1810,"Wearing apparel, except fur apparel"
+182,Dressing & dyeing of fur; processing of fur
+1820,Dressing & dyeing of fur; processing of fur
+19,"Leather, leather products and footwear"
+191,"Tanning, dressing and processing of leather"
+1911,Tanning and dressing of leather
+1912,"Luggage, handbags, etc.; saddlery & harness"
+192,Footwear
+1920,Footwear
+20,Wood products (excl. furniture)
+201,Sawmilling and planing of wood
+2010,Sawmilling and planing of wood
+202,"Products of wood, cork, straw, etc."
+2021,"Veneer sheets, plywood, particle board, etc."
+2022,Builders' carpentry and joinery
+2023,Wooden containers
+2029,Other wood products; articles of cork/straw
+21,Paper and paper products
+2101,"Pulp, paper and paperboard"
+210,Paper and paper products
+2102,Corrugated paper and paperboard
+2109,Other articles of paper and paperboard
+22,Printing and publishing
+221,Publishing
+2211,Publishing of books and other publications
+2212,"Publishing of newspapers, journals, etc."
+2213,Publishing of recorded media
+2219,Other publishing
+222,Printing and related service activities
+2221,Printing
+2222,Service activities related to printing
+223,Reproduction of recorded media
+2230,Reproduction of recorded media
+23,"Coke,refined petroleum products,nuclear fuel"
+231,Coke oven products
+2310,Coke oven products
+232,Refined petroleum products
+2320,Refined petroleum products
+233,Processing of nuclear fuel
+2330,Processing of nuclear fuel
+24,Chemicals and chemical products
+241,Basic chemicals
+2411,"Basic chemicals, except fertilizers"
+2412,Fertilizers and nitrogen compounds
+2413,Plastics in primary forms; synthetic rubber
+242,Other chemicals
+2421,Pesticides and other agro-chemical products
+2422,"Paints, varnishes, printing ink and mastics"
+2423,"Pharmaceuticals, medicinal chemicals, etc."
+2424,"Soap, cleaning & cosmetic preparations"
+2429,Other chemical products n.e.c.
+243,Man-made fibres
+2430,Man-made fibres
+25,Rubber and plastics products
+251,Rubber products
+2511,Rubber tyres and tubes
+2519,Other rubber products
+252,Plastic products
+2520,Plastic products
+26,Non-metallic mineral products
+261,Glass and glass products
+2610,Glass and glass products
+269,Non-metallic mineral products n.e.c.
+2691,"Pottery, china and earthenware"
+2692,Refractory ceramic products
+2693,Struct.non-refractory clay; ceramic products
+2694,"Cement, lime and plaster"
+2695,"Articles of concrete, cement and plaster"
+2696,"Cutting, shaping & finishing of stone"
+2699,Other non-metallic mineral products n.e.c.
+27,Basic metals
+271,Basic iron and steel
+2710,Basic iron and steel
+272,Basic precious and non-ferrous metals
+2720,Basic precious and non-ferrous metals
+273,Casting of metals
+2731,Casting of iron and steel
+2732,Casting of non-ferrous metals
+28,Fabricated metal products
+281,Struct.metal products;tanks;steam generators
+2811,Structural metal products
+2812,"Tanks, reservoirs and containers of metal"
+2813,Steam generators
+289,Other metal products; metal working services
+2891,Metal forging/pressing/stamping/roll-forming
+2892,Treatment & coating of metals
+2893,"Cutlery, hand tools and general hardware"
+2899,Other fabricated metal products n.e.c.
+29,Machinery and equipment n.e.c.
+291,General purpose machinery
+2911,Engines & turbines (not for transport equipment)
+2912,"Pumps, compressors, taps and valves"
+2913,"Bearings, gears, gearing & driving elements"
+2914,"Ovens, furnaces and furnace burners"
+2915,Lifting and handling equipment
+2919,Other general purpose machinery
+292,Special purpose machinery
+2921,Agricultural and forestry machinery
+2922,Machine tools
+2923,Machinery for metallurgy
+2924,Machinery for mining & construction
+2925,Food/beverage/tobacco processing machinery
+2926,"Machinery for textile, apparel and leather"
+2927,Weapons and ammunition
+2929,Other special purpose machinery
+293,Domestic appliances n.e.c.
+2930,Domestic appliances n.e.c.
+300,"Office, accounting and computing machinery"
+3000,"Office, accounting and computing machinery"
+30,"Office, accounting and computing machinery"
+31,Electrical machinery and apparatus
+311,"Electric motors, generators and transformers"
+3110,"Electric motors, generators and transformers"
+312,Electricity distribution & control apparatus
+3120,Electricity distribution & control apparatus
+313,Insulated wire and cable
+3130,Insulated wire and cable
+314,"Accumulators, primary cells and batteries"
+3140,"Accumulators, primary cells and batteries"
+315,Lighting equipment and electric lamps
+3150,Lighting equipment and electric lamps
+319,Other electrical equipment n.e.c.
+3190,Other electrical equipment n.e.c.
+32,"Radio,television and communication equipment"
+321,"Electronic valves, tubes, etc."
+3210,"Electronic valves, tubes, etc."
+322,TV/radio transmitters; line comm. apparatus
+3220,TV/radio transmitters; line comm. apparatus
+323,TV and radio receivers and associated goods
+3230,TV and radio receivers and associated goods
+33,"Medical, precision and optical instruments"
+331,"Medical, measuring, testing appliances, etc."
+3311,"Medical, surgical and orthopaedic equipment"
+3312,"Measuring/testing/navigating appliances,etc."
+3313,Industrial process control equipment
+332,Optical instruments & photographic equipment
+3320,Optical instruments & photographic equipment
+333,Watches and clocks
+3330,Watches and clocks
+34,"Motor vehicles, trailers, semi-trailers"
+341,Motor vehicles
+3410,Motor vehicles
+342,"Automobile bodies, trailers & semi-trailers"
+3420,"Automobile bodies, trailers & semi-trailers"
+343,Parts/accessories for automobiles
+3430,Parts/accessories for automobiles
+35,Other transport equipment
+351,Building and repairing of ships and boats
+3511,Building and repairing of ships
+3512,Building/repairing of pleasure/sport. boats
+352,Railway/tramway locomotives & rolling stock
+3520,Railway/tramway locomotives & rolling stock
+353,Aircraft and spacecraft
+3530,Aircraft and spacecraft
+359,Transport equipment n.e.c.
+3591,Motorcycles
+3592,Bicycles and invalid carriages
+3599,Other transport equipment n.e.c.
+36,Furniture; manufacturing n.e.c.
+361,Furniture
+3610,Furniture
+369,Manufacturing n.e.c.
+3691,Jewellery and related articles
+3692,Musical instruments
+3693,Sports goods
+3694,Games and toys
+3699,Other manufacturing n.e.c.
+37,Recycling
+371,Recycling of metal waste and scrap
+3710,Recycling of metal waste and scrap
+372,Recycling of non-metal waste and scrap
+3720,Recycling of non-metal waste and scrap
+E,"Total electricity, gas and water supply"
+40,"Electricity, gas, steam and hot water supply"
+401,"Electricity production, collection, distribution"
+402,Gas production and distribution
+403,Steam and hot water supply
+41,"Water collection, purification, distribution"
+410,"Water collection, purification, distribution"
